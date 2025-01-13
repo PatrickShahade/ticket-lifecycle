@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-All tickets start somewhere. So let's take a look at how it starts from an End User. We're looking at our HelpDesk as if we are someone using this system. We'll Open a New Ticket to get started. We created some users before, so we'll make the ticket as that user. I'm just having fun with the details, but you can see how this would go. We'll create this ticket and see what it looks like on the other side!
+1) Let's take a look at how ticket life starts. This is the HelpDesk from an End User's point of view. I'll "Open a New Ticket" as a User I created in the post-install configuration. I'm just having fun with the details, but you can see how this would go. I'll create this ticket and see what it looks like on the other side!
 </p>
 <p>
 <img src=https://i.imgur.com/pxMJGUX.png/>
@@ -37,7 +37,7 @@ All tickets start somewhere. So let's take a look at how it starts from an End U
 <br />
 
 <p>
-We're going to log in as our agent Jane and take a look at our newly created ticket. There it is right there! If we click on the ticket we can see what sort of details it holds. We're going to need to assign this to someone and set an SLA, but it seems Jane doesn't have the permissions. What about our other agent? We'll try to see this again as John.
+2) From the agent side I'm going to log in as Jane and take a look at the newly created ticket. There it is right there! If I click on the ticket I can see what sort of details it holds. I'm going to need to assign this to someone and set an SLA, but it seems Jane doesn't have the permissions. I'll try to see this again as John.
 <p>
 <img src=https://i.imgur.com/pY63tpi.png/>
   <img src=https://i.imgur.com/tQBQlY2.png/>
@@ -45,8 +45,7 @@ We're going to log in as our agent Jane and take a look at our newly created tic
 <br />
 
 <p>
-John can update the SLA and assign an agent. We'll give it to Jane and set the SLA to our most urgent status. We could also assign this ticket to a specific team, or even ourselves if we wanted to, but we're just going to assume John assigned this to Jane. 
-</p>
+3) John can update the SLA and assign an agent. I'll give it to Jane and set the SLA to our most urgent status. It's possible to assign this ticket to a specific team, or even ourselves if we wanted to, but I'm just going to assume John wanted to assign this to Jane. 
 </p>
 <p>
   <img src=https://i.imgur.com/epHyZwq.png/>
@@ -56,7 +55,7 @@ John can update the SLA and assign an agent. We'll give it to Jane and set the S
 <br />
 
 <p>
-On Jane's side, we can see an updated ticket that has comments and even put our own internal notes on it. But now we'll just make a response that our user can see and "resolve" the issue. Obviously these kinds of tickets can be at varying levels of intensity, run on much longer, be reassigned to different Agents and more. Depending on how our system is set up and what we want, our ticketing system can be handled as casually or professionally as required by the users. 
+4) On Jane's side, she can see an updated ticket that has comments and internal notes on it. She can make a response here that our End User can see and "resolve" the issue. Tickets are as complex as the people who create them, and may need to be reassigned to different Agents or Teams until they are resolved. With our demo problem, it's just as simple as giving information to the User to help them along.
 </p>
 <p>
 <img src=https://i.imgur.com/NewUESG.png/>
@@ -70,11 +69,16 @@ On Jane's side, we can see an updated ticket that has comments and even put our 
 <br />
 
 <p>
-Real quick, let's just take a look from the Admin side and see how this ticket was handled after it was closed. We can see the ticket Jane just completed. What about the notes? We can see the whole lifecycle of that ticket and we could even continue to add replies or notes and reopen or change the status of some tickets. 
+5) Real quick, let's just take a look from the Admin side and see how this ticket was handled after it was closed. You can see the ticket Jane just completed. We can see the whole lifecycle of that ticket and we can even continue to add replies or notes. If we wanted we could reopen or change the status of some tickets. 
 </p>
 <p>
 <img src=https://i.imgur.com/4SW0yKS.png/>
   <img src=https://i.imgur.com/svyxbj6.png/>
   <img src=https://i.imgur.com/A7tGupQ.png/>
+</p>
+<br />
+
+<p>
+This is the most basic overview of the ticket lifecycle.
 </p>
 <br />
